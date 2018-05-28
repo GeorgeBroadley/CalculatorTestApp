@@ -1,0 +1,48 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+a {
+  color: #00B7FF; }
+
+h1 {
+  font-size: 26px; }
+
+.calculator {
+  width: 400px;
+  background-color: #a5957b;
+  color: #dbd5c7;
+  padding: 1px 0px;
+  text-align: center;
+  font-size: 30px; }
+  .calculator .display {
+    margin: 5px;
+    width: 390px;
+    height: 90px;
+    padding: 27.5px 0;
+    background-color: #234458;
+    box-sizing: border-box; }
+  .calculator .btn {
+    margin: 5px;
+    width: 90px;
+    height: 90px;
+    float: left;
+    padding: 27.5px 0;
+    display: inline-block;
+    box-sizing: border-box; }
+  .calculator .btn-wide {
+    width: 190px; }
+  .calculator .btn-num {
+    background-color: #446984; }
+  .calculator .btn-opp {
+    background-color: #7b8f99; }
+  .calculator .btm {
+    clear: both;
+    margin: 5px;
+    width: 390px;
+    height: 10px;
+    background-color: #234458; }
+  .calculator .btn:hover {
+    cursor: pointer; }
+
+/*# sourceMappingURL=style.css.map */
